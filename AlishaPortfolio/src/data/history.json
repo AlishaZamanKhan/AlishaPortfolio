@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Itransition",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": [ "contributed to React-based applications, ensuring adherence to project defense protocols and coding standards set by both USA and European regulations"],
+    "imageSrc": "history/itransition.png"
+  },
+    {
+      "role": "Associate Software Engineer",
+      "organisation": "Brain Station 23",
+      "startDate": "Nov, 2021",
+      "endDate": "Apr 2022",
+      "experiences": ["Worked on the Frontend of a in-house eccommerce which was React-based"],
+      "imageSrc": "history/bs.png"
+    },
+    {
+      "role": "Software Engineer Trainee",
+      "organisation": "Brain Station 23",
+      "startDate": "May, 2022",
+      "endDate": "Nov, 2022",
+      "experiences": ["Developed expertise in JavaScript and React, contributing to the front-end of several projects", "Completed various MERN stack tasks, integrating front-end and back-end components effectively. This role honed my skills in creating dynamic, user-friendly applications."],
+      "imageSrc": "history/bs.png"
+    },
+    {
+      "role": "Senior Executive",
+      "organisation": "UITS - Programming Hub(computer club)",
+      "startDate": "Jan, 2022",
+      "endDate": "Jan, 2024",
+      "experiences": [
+        "Organised programming classes",
+        "Organised several intra-university programming contests"
+      ],
+      "imageSrc": "history/uits.png"
+    }
+  ]
